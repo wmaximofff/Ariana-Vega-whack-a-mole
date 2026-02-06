@@ -22,11 +22,3 @@ return (
     </>
   );
 }
-
-export default function App() {
-  return (
-    <GameProvider>
-      <AppContent />
-    </GameProvider>
-  );
-}
